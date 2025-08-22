@@ -37,6 +37,6 @@ License summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
 ## 📬 Contact
 For questions, collaborations, or professional inquiries:  
 
-**Your Name**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername) | [ORCID](https://orcid.org/0000-0000-0000-0000)
+**Ankur Sharma**  
+📧 ankur2891@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ankur-sharma-50761326a/) | [GitHub](https://github.com/ankursharma2891) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5397-6777)
